@@ -1,16 +1,45 @@
-## Hi there 👋
+<img width="1400" height="350" alt="banner" src="https://github.com/user-attachments/assets/d9055a60-85d2-4986-8037-2d1b10085797" />
 
-<!--
-**amykrumenauer/amykrumenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! 👋
 
-Here are some ideas to get you started:
+Sou Amanda Krumenauer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💜 Desenvolvedora Full Stack
+
+🎓 Técnica e Tecnóloga em ADS
+
+🛡️ Pós-graduanda em Cibersegurança
+
+---
+
+## 🚀 Tecnologias
+
+- Java
+- Spring Boot
+- React
+- JavaScript
+- HTML
+- CSS
+- PostgreSQL
+- Docker
+- Linux
+
+---
+
+## 📂 Projetos
+
+- 🌐 Portfólio
+- 🐈‍⬛ Toca dos Tatus
+- 🚿 Lhabath
+- 🐟 Peixaria & Empório do Vale
+- 🏎️ Simtune
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/amanda-krumenauer-257069289/?skipRedirect=true
+
+Portfólio: https://portfolio-amanda-lime.vercel.app/
+
+Empresa: https://amape-tecnologia.vercel.app/
